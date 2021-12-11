@@ -1,4 +1,4 @@
-# Pope's repository
+# Papa's repository
 - 👋 Hi, I’m @Papaepapa
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python, C, C++, php, HTML, CSS, C#... 
